@@ -84,6 +84,10 @@ kumanda = Kumanda()
 
 # Burada girişte yazan bilgiler ve hangi bölümü nasıl açacağımızı yazıyor. (DAHA DETAYLI ANLATIM İÇİN eneserolsahin.wixsite.com/snakeprg SİTESİNDEN BİZE ULAŞABİLİRSİNİZ.)
 print("""
+____              _        ____  ____   ____
+/ ___| _ __   __ _| | _____|  _ \|  _ \ / ___|
+\___ \| '_ \ / _` | |/ / _ \ |_) | |_) | |  _      ___) | | | | (_| |   <  __/  __/|  _ <| |_| |
+|____/|_| |_|\__,_|_|\_\___|_|   |_| \_\\____|
 Televizyon Uygulaması
 1. Tv Aç
 2. Tv Kapat
